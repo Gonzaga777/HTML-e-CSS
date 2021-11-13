@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+div {
+    background-color: rgb(137, 139, 130);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-color: black;
+    
+    }
+body {
+    background-color: blanchedalmond;
+    font-size: medium;
+    font-family: Arial,
+}
+label {
+    text-align: center;
+    font-style: italic;
+    font-weight: normal;
+}
+h1 {
+    text-align: center;
+    text-decoration: none;
+}
+button:hover {
+    padding: 10px 20px 20px 10px;
+    position: relative;
+   background-color: blue;
+}
+button:hover {
+    padding: 10px 20px 20px 10px;
+    
+   background-color: rgb(241, 241, 250);
+}
+
+textarea {
+    resize: horizontal;
+}
